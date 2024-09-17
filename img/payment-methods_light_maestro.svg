@@ -1,0 +1,16 @@
+<svg width="33.313965" height="21.957031" viewBox="0 0 33.314 21.957" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip41_1711">
+			<rect id="payment-methods/light/maestro" width="33.314091" height="21.957016" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip41_1711)">
+		<path id="Rectangle 1" d="M0 2.74C0 1.22 1.24 0 2.77 0L30.53 0C32.07 0 33.31 1.22 33.31 2.74L33.31 19.21C33.31 20.72 32.07 21.95 30.53 21.95L2.77 21.95C1.24 21.95 0 20.72 0 19.21L0 2.74Z" fill="#CCEFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M20.3 17.45L13.01 17.45L13.01 4.5L20.3 4.5L20.3 17.45Z" fill="#6C6BBD" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M13.48 10.97C13.48 8.35 14.72 6.01 16.66 4.5C15.24 3.4 13.45 2.74 11.51 2.74C6.91 2.74 3.18 6.43 3.18 10.97C3.18 15.52 6.91 19.21 11.51 19.21C13.45 19.21 15.24 18.55 16.66 17.45C14.72 15.94 13.48 13.6 13.48 10.97Z" fill="#EB001B" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M30.12 10.97C30.12 15.52 26.39 19.21 21.8 19.21C19.85 19.21 18.07 18.55 16.65 17.45C18.59 15.94 19.83 13.6 19.83 10.97C19.83 8.35 18.59 6.01 16.65 4.5C18.07 3.4 19.85 2.74 21.8 2.74C26.39 2.74 30.12 6.43 30.12 10.97Z" fill="#0099DF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
